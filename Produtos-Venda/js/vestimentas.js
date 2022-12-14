@@ -12,6 +12,6 @@ let modelsJson = [
     { id: 11, name: 'Fly', img: './Produtos-Venda/img/jaqueta/fly1.webp', price: [120.00, 120.00, 120.00, 120.00], sizes: ['P', 'M', 'G', 'GG'], description: 'Uma Jaqueta para aqueles que voam' },
     { id: 12, name: 'Scorpion', img: './Produtos-Venda/img/moletom/moletom1/scorpion1.webp', price: [120.00, 120.00, 120.00, 120.00], sizes: ['P', 'M', 'G', 'GG'], description: 'Cuidado com o Veneno' },
     { id: 13, name: 'Dead', img: './Produtos-Venda/img/moletom/moletom2/Dead1.webp', price: [120.00, 120.00, 120.00, 120.00], sizes: ['P', 'M', 'G', 'GG'], description: 'O quê é a morte?' },
-    { id: 14, name: 'Misa', img: './Produtos-Venda/img/moletom/moletom3/Misa1.webp', price: [120.00, 120.00, 120.00, 120.00], sizes: ['P', 'M', 'G', 'GG'], description: 'I can be your Death Note?' },
+    { id: 14, name: 'Misa', img: './Produtos-Venda/img/moletom/moletom3/misa1.webp', price: [120.00, 120.00, 120.00, 120.00], sizes: ['P', 'M', 'G', 'GG'], description: 'I can be your Death Note?' },
     { id: 15, name: 'Black', img: './Produtos-Venda/img/vestidos/vestido1.webp', price: [100.00, 100.00, 100.00, 100.00], sizes: ['P', 'M', 'G', 'GG'], description: 'Um vestido bonito' },
 ];
